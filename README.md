@@ -14,6 +14,8 @@ This practice will help us prepare for the exam that will take place next 12/02/
 
 ### Introduction
 
+<img src="images/logo.png" width="200px">
+
 ### Features
 
 ### Installation

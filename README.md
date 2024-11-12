@@ -18,6 +18,13 @@ This practice will help us prepare for the exam that will take place next 12/02/
 
 ### Features
 
+| Feature     | Description               |  Status      |
+| ----------  | ------------------------  |  ---------   |
+| Feature 1   | Description of Feature 1  | In Progress  |  
+| Feature 2   | Description of Feature 2  | Completed    |
+| Feature 3   | Description of Feature 3  | Not Started  |
+
+
 ### Installation
 
 ### Usage

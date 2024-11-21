@@ -1,0 +1,118 @@
+commit 52aacdc368278187c5d6b53de14904b39794a24b
+Merge: 8c2f644 69bb0fe
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Wed Nov 20 20:42:45 2024 -0300
+
+    Merge pull request #2 from MelinaGiacone/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 69bb0fe9e30947b6039e2e5fe35483faebff666f
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 19 10:09:10 2024 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 47 +++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 47 insertions(+)
+
+commit 8c2f6441d7c109967efe177e37ef40dead451c53
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 19 09:25:29 2024 +0100
+
+    Update Introduction of README.md
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit ee8b2f630a30e87a1f9936f7a05018dcd3917268
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 19 09:21:34 2024 +0100
+
+    Add validation 1 file
+
+ validation.txt | 82 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 82 insertions(+)
+
+commit a58e139968e2940db29755ee65e6c6c6e2420cbc
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 19 09:16:32 2024 +0100
+
+    Merge add--license branch into main
+
+ LICENSE.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit c7f3e754297438df8c786d1be8f72d61bb96d492
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 19 08:59:00 2024 +0100
+
+    Add MIT License
+
+ LICENSE.md | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
+commit 7cfb4f9dca4382ef7384c4282e9d12cc6d84eec6
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 19 08:29:23 2024 +0100
+
+    Enhance README with formatting
+
+ README.md | 20 ++++++++++++++++++++
+ 1 file changed, 20 insertions(+)
+
+commit b110a1e10f4a85a6456d6489f1d030acd71268a2
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 12 10:47:17 2024 +0100
+
+    Add feature list table to README
+
+ README.md       |   7 +++++++
+ images/logo.png | Bin 0 -> 167638 bytes
+ 2 files changed, 7 insertions(+)
+
+commit 3652a20212f450759900e20386a64ebe20157d89
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 12 10:28:50 2024 +0100
+
+    Add project logo to README
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 8954ab29374d1d721135d56464411d819f9db98f
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 12 10:04:25 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 22 ++++++++++++++++------
+ 1 file changed, 16 insertions(+), 6 deletions(-)
+
+commit 88fa1daa2ef88eed6cb857b63acba8f0584349ee
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 12 09:50:36 2024 +0100
+
+    Add Table of Contents to
+    README
+
+ README.md | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit 9e3a6ec8a566885bba4d57fa227cc8ee25fd9191
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 12 09:39:48 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 85fea0b42f169479d55ee43055e2317f83ffa647
+Author: MelinaGiacone <yb7099284@iespoblenou.org>
+Date:   Tue Nov 12 09:05:17 2024 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
